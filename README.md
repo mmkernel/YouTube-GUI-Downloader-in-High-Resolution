@@ -1,4 +1,4 @@
-# YouTube GUI Downloader
+# High Resolution YouTube GUI Video Downloader
 
 # Don't forget to install the required packages
 
